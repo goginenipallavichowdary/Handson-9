@@ -1,0 +1,10 @@
+Inserted (1, 10) at index 2.
+Inserted (2, 20) at index 0.
+Inserted (3, 30) at index 3.
+Table resized to 8 (doubled).
+Inserted (4, 40) at index 3.
+Inserted (5, 50) at index 0.
+Value for key 3: -1
+Value for key 2 after removal: -1
+Removed key 4 from index 3.
+Removed key 5 from index 0.
